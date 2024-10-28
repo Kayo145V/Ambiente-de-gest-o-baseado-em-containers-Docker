@@ -64,6 +64,9 @@ Antes de começar, você precisará instalar algumas ferramentas:
    ```bash
    docker-compose up -d
 
+3. Para configurar o banco de dados, você pode executar o script employees.sql no seu banco de dados MySQL. Este script cria a tabela de funcionários e insere alguns dados iniciais.
+  
+
 ## Acesso ao sistema
 
 Acesse o sistema através do navegador no endereço http://localhost:8080.
