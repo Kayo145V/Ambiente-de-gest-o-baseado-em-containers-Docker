@@ -5,6 +5,11 @@ Criação de um sistema de gestão de funcionários que facilita o gerenciamento
 
 Este projeto implementa um sistema de gestão de funcionários utilizando PHP, MySQL e Docker. O sistema permite a criação, leitura, atualização e exclusão (CRUD) de registros de funcionários.
 
+# Vídeo de Demonstração
+
+Veja o vídeo de demonstração aqui: 
+[https://www.youtube.com/watch?v=Npla4rTT7ak](https://www.youtube.com/watch?v=Npla4rTT7ak)
+
 ## Estrutura do Projeto
 
 O projeto é composto pelos seguintes arquivos:
