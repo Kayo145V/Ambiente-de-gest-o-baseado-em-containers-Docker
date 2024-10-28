@@ -79,4 +79,4 @@ Acesse o sistema através do navegador no endereço http://localhost:8080.
 Informações extras como login e senha estão disponíveis no arquivo DOCKER-COMPOSE.YML
 ----------------------------------------------------------------------------------------------------------------------------
 
-# Em caso de dúvidas entre em contato com: Kayo145v@gmail.com
+### Em caso de dúvidas entre em contato com: Kayo145v@gmail.com
